@@ -1,5 +1,5 @@
 # GeekTimeSpider
-极客时间专栏文章爬取, 转换保存为markdown文件。
+极客时间专栏文章爬虫, 转换保存为markdown文件。
 
 ### How Run
 > python geekTimeSpider.py 专栏id 手机号码 登录密码 从第几篇开始下载
